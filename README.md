@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Deichmanno
+- 👀 I’m interested in python and Linux development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on money
+- 📫 How to reach me mcieslar6@gmail.com
